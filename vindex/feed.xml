@@ -1,19 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="/vindex/feed.xml" rel="self" type="application/atom+xml" /><link href="/vindex/" rel="alternate" type="text/html" /><updated>2025-10-27T11:57:21+00:00</updated><id>/vindex/feed.xml</id><title type="html">Vindex Cycling Club</title><subtitle>Vindex Cycling Club</subtitle><entry><title type="html">Welcome to Ghost</title><link href="/vindex/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" /><published>2017-07-27T11:00:00+01:00</published><updated>2017-07-27T11:00:00+01:00</updated><id>/vindex/welcome</id><content type="html" xml:base="/vindex/welcome"><![CDATA[<p>Hey! Welcome to Ghost, it’s great to have you :)</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="/vindex/feed.xml" rel="self" type="application/atom+xml" /><link href="/vindex/" rel="alternate" type="text/html" /><updated>2025-10-27T16:10:55+00:00</updated><id>/vindex/feed.xml</id><title type="html">Vindex Cycling Club</title><subtitle>Vindex Cycling Club</subtitle><entry><title type="html">Welcome to Vindex Cycling</title><link href="/vindex/welcome" rel="alternate" type="text/html" title="Welcome to Vindex Cycling" /><published>2025-10-27T10:00:00+00:00</published><updated>2025-10-27T10:00:00+00:00</updated><id>/vindex/welcome</id><content type="html" xml:base="/vindex/welcome"><![CDATA[<h1 id="hey-welcome-to-vindex-cycling-️">Hey! Welcome to <strong>Vindex Cycling</strong> 🚴‍♂️</h1>
 
-<p>We know that first impressions are important, so we’ve populated your new site with some initial <strong>Getting Started</strong> posts that will help you get familiar with everything in no time. This is the first one!</p>
+<p>We’re thrilled to have you on board!<br />
+Whether you’re here to explore routes, get gear insights, or connect with fellow riders, <strong>Vindex Cycling</strong> is your new home on two wheels.</p>
 
-<h3 id="there-are-a-few-things-that-you-should-know-up-front">There are a few things that you should know up-front:</h3>
+<p>We know that first rides matter — so we’ve set up some <strong>Getting Started</strong> posts to help you roll smoothly into the Vindex community.</p>
+
+<hr />
+
+<h3 id="a-few-things-to-know-before-you-clip-in">A few things to know before you clip in:</h3>
+
 <ol>
-  <li>Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That’s who it works best for. If you’re using Ghost for some other purpose, that’s fine too - but it might not be the best choice for you.</li>
-  <li>The entire platform can be modified and customized to suit your needs, which is very powerful, but doing so <strong>does</strong> require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.</li>
-  <li>For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.</li>
+  <li>
+    <p><strong>Vindex Cycling is built by riders, for riders.</strong><br />
+Our mission is to bring together cyclists who care about performance, community, and the freedom of the open road.</p>
+  </li>
+  <li>
+    <p><strong>You can shape your own experience here.</strong><br />
+From sharing ride reports and photos to exploring our latest training tips or gear reviews — you’re in control of your journey.</p>
+  </li>
+  <li>
+    <p><strong>We love data as much as we love climbs.</strong><br />
+Expect insights, analysis, and resources to help you ride smarter — not just harder.</p>
+  </li>
+  <li>
+    <p><strong>Customization and contribution are encouraged.</strong><br />
+Want to suggest a new feature or route? Join our Discord or drop us a message — we’re always open to ideas from the peloton.</p>
+  </li>
 </ol>
 
-<p>Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our <a href="https://ghost.org/pricing">Ghost(Pro)</a> service, and every penny we make is re-invested into funding further development of free, open source technology for modern journalism.</p>
+<hr />
 
-<p>The main thing you’ll want to read about next is probably: <a href="https://demo.ghost.io/the-editor/">the Ghost editor</a>.</p>
+<h3 id="whats-next">What’s next?</h3>
 
-<p>Once you’re done reading, you can simply delete the default <strong>Ghost</strong> user from your team to remove all of these introductory posts!</p>]]></content><author><name>Ghost</name></author><category term="Getting started" /><summary type="html"><![CDATA[Hey! Welcome to Ghost, it’s great to have you :)]]></summary></entry><entry><title type="html">Using the Ghost editor</title><link href="/vindex/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor" /><published>2017-07-27T10:00:00+01:00</published><updated>2017-07-27T10:00:00+01:00</updated><id>/vindex/the-editor</id><content type="html" xml:base="/vindex/the-editor"><![CDATA[<p>Ghost uses a language called <strong>Markdown</strong> to format text.</p>
+<ul>
+  <li>Learn how to get the most from your <strong>Vindex profile</strong> — upload your rides, share your setup, and track your progress.</li>
+  <li>Discover <strong>featured routes</strong> curated by the community, from iconic climbs to hidden gems.</li>
+  <li>Check out our <strong>Cycling Journal</strong>, where we share stories, product insights, and updates from the Vindex team.</li>
+</ul>
+
+<hr />
+
+<p>Vindex Cycling was founded by a small group of passionate riders who believe cycling is more than a sport — it’s a mindset.<br />
+Every post, route, and discussion here aims to celebrate that spirit.</p>
+
+<p>Ready to roll?<br />
+Start by exploring our <a href="/journal">Cycling Journal</a> or join the <a href="/community">Community Hub</a> to meet other riders.</p>
+
+<hr />
+
+<p><strong>Ride hard, stay kind, and welcome to the peloton.</strong><br />
+– The Vindex Team ❤️</p>]]></content><author><name>vindexcycling</name></author><category term="Welcome" /><summary type="html"><![CDATA[Hey! Welcome to Vindex Cycling 🚴‍♂️]]></summary></entry><entry><title type="html">Welcome to Ghost</title><link href="/vindex/welcome.md" rel="alternate" type="text/html" title="Welcome to Ghost" /><published>2017-07-27T11:00:00+01:00</published><updated>2017-07-27T11:00:00+01:00</updated><id>/vindex/welcome.md</id><content type="html" xml:base="/vindex/welcome.md"><![CDATA[Hey! Welcome to Ghost, it's great to have you :)
+
+We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
+
+### There are a few things that you should know up-front:
+1. Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That's who it works best for. If you're using Ghost for some other purpose, that's fine too - but it might not be the best choice for you.
+2. The entire platform can be modified and customized to suit your needs, which is very powerful, but doing so **does** require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.
+3. For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.
+
+
+Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our [Ghost(Pro)](https://ghost.org/pricing) service, and every penny we make is re-invested into funding further development of free, open source technology for modern journalism.
+
+The main thing you'll want to read about next is probably: [the Ghost editor](https://demo.ghost.io/the-editor/).
+
+Once you're done reading, you can simply delete the default **Ghost** user from your team to remove all of these introductory posts!]]></content><author><name>Ghost</name></author><category term="Getting started" /><summary type="html"><![CDATA[Hey! Welcome to Ghost, it's great to have you :)]]></summary></entry><entry><title type="html">Using the Ghost editor</title><link href="/vindex/the-editor" rel="alternate" type="text/html" title="Using the Ghost editor" /><published>2017-07-27T10:00:00+01:00</published><updated>2017-07-27T10:00:00+01:00</updated><id>/vindex/the-editor</id><content type="html" xml:base="/vindex/the-editor"><![CDATA[<p>Ghost uses a language called <strong>Markdown</strong> to format text.</p>
 <p>When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.</p>
 <p>At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a <strong>?</strong> icon, which contains more advanced shortcuts.</p>
 <p>For now, though, let's run you through some of the basics. You'll want to make sure you're editing this post in order to see all the Markdown we've used.</p>
@@ -604,96 +654,4 @@ c.draw = function() {
 
 <p></div><script async src="//codepen.io/assets/embed/ei.js"></script></p>
 
-<p>Isn't it beautiful?</p>]]></content><author><name>John O&apos;Nolan</name></author><summary type="html"><![CDATA[Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.]]></summary></entry><entry><title type="html">I Have a Dream</title><link href="/vindex/i-have-a-dream" rel="alternate" type="text/html" title="I Have a Dream" /><published>1963-08-28T11:18:00+01:00</published><updated>1963-08-28T11:18:00+01:00</updated><id>/vindex/i-have-a-dream</id><content type="html" xml:base="/vindex/i-have-a-dream"><![CDATA[<p>I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.</p>
-
-<p>Five score years ago, a great American, in whose symbolic shadow we stand today, signed the Emancipation Proclamation. This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the long night of their captivity.</p>
-
-<p>But one hundred years later, the Negro still is not free. One hundred years later, the life of the Negro is still sadly crippled by the manacles of segregation and the chains of discrimination. One hundred years later, the Negro lives on a lonely island of poverty in the midst of a vast ocean of material prosperity. One hundred years later, the Negro is still languished in the corners of American society and finds himself an exile in his own land. And so we’ve come here today to dramatize a shameful condition.</p>
-
-<p>In a sense we’ve come to our nation’s capital to cash a check. When the architects of our republic wrote the magnificent words of the Constitution and the Declaration of Independence, they were signing a promissory note to which every American was to fall heir. This note was a promise that all men, yes, black men as well as white men, would be guaranteed the “unalienable Rights” of “Life, Liberty and the pursuit of Happiness.” It is obvious today that America has defaulted on this promissory note, insofar as her citizens of color are concerned. Instead of honoring this sacred obligation, America has given the Negro people a bad check, a check which has come back marked “insufficient funds.”</p>
-
-<p>But we refuse to believe that the bank of justice is bankrupt. We refuse to believe that there are insufficient funds in the great vaults of opportunity of this nation. And so, we’ve come to cash this check, a check that will give us upon demand the riches of freedom and the security of justice.</p>
-
-<p>We have also come to this hallowed spot to remind America of the fierce urgency of Now. This is no time to engage in the luxury of cooling off or to take the tranquilizing drug of gradualism. Now is the time to make real the promises of democracy. Now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice. Now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood. Now is the time to make justice a reality for all of God’s children.</p>
-
-<p>It would be fatal for the nation to overlook the urgency of the moment. This sweltering summer of the Negro’s legitimate discontent will not pass until there is an invigorating autumn of freedom and equality. Nineteen sixty-three is not an end, but a beginning. And those who hope that the Negro needed to blow off steam and will now be content will have a rude awakening if the nation returns to business as usual. And there will be neither rest nor tranquility in America until the Negro is granted his citizenship rights. The whirlwinds of revolt will continue to shake the foundations of our nation until the bright day of justice emerges.</p>
-
-<p>But there is something that I must say to my people, who stand on the warm threshold which leads into the palace of justice: In the process of gaining our rightful place, we must not be guilty of wrongful deeds. Let us not seek to satisfy our thirst for freedom by drinking from the cup of bitterness and hatred. We must forever conduct our struggle on the high plane of dignity and discipline. We must not allow our creative protest to degenerate into physical violence. Again and again, we must rise to the majestic heights of meeting physical force with soul force.</p>
-
-<p>The marvelous new militancy which has engulfed the Negro community must not lead us to a distrust of all white people, for many of our white brothers, as evidenced by their presence here today, have come to realize that their destiny is tied up with our destiny. And they have come to realize that their freedom is inextricably bound to our freedom.</p>
-
-<p>We cannot walk alone.</p>
-
-<p>And as we walk, we must make the pledge that we shall always march ahead.</p>
-
-<p>We cannot turn back.</p>
-
-<p>There are those who are asking the devotees of civil rights, “When will you be satisfied?” We can never be satisfied as long as the Negro is the victim of the unspeakable horrors of police brutality. We can never be satisfied as long as our bodies, heavy with the fatigue of travel, cannot gain lodging in the motels of the highways and the hotels of the cities. We cannot be satisfied as long as the negro’s basic mobility is from a smaller ghetto to a larger one. We can never be satisfied as long as our children are stripped of their self-hood and robbed of their dignity by signs stating: “For Whites Only.” We cannot be satisfied as long as a Negro in Mississippi cannot vote and a Negro in New York believes he has nothing for which to vote. No, no, we are not satisfied, and we will not be satisfied until “justice rolls down like waters, and righteousness like a mighty stream.”</p>
-
-<p>I am not unmindful that some of you have come here out of great trials and tribulations. Some of you have come fresh from narrow jail cells. And some of you have come from areas where your quest – quest for freedom left you battered by the storms of persecution and staggered by the winds of police brutality. You have been the veterans of creative suffering. Continue to work with the faith that unearned suffering is redemptive. Go back to Mississippi, go back to Alabama, go back to South Carolina, go back to Georgia, go back to Louisiana, go back to the slums and ghettos of our northern cities, knowing that somehow this situation can and will be changed.</p>
-
-<p>Let us not wallow in the valley of despair, I say to you today, my friends.</p>
-
-<p>And so even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream.</p>
-
-<p>I have a dream that one day this nation will rise up and live out the true meaning of its creed: “We hold these truths to be self-evident, that all men are created equal.”</p>
-
-<p>I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.</p>
-
-<p>I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.</p>
-
-<p>I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.</p>
-
-<p>I have a <strong>dream</strong> today!</p>
-
-<p>I have a dream that one day, down in Alabama, with its vicious racists, with its governor having his lips dripping with the words of “interposition” and “nullification” – one day right there in Alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers.</p>
-
-<p>I have a <strong>dream</strong> today!</p>
-
-<p>I have a dream that one day every valley shall be exalted, and every hill and mountain shall be made low, the rough places will be made plain, and the crooked places will be made straight; “and the glory of the Lord shall be revealed and all flesh shall see it together.”</p>
-
-<p>This is our hope, and this is the faith that I go back to the South with.</p>
-
-<p>With this faith, we will be able to hew out of the mountain of despair a stone of hope. With this faith, we will be able to transform the jangling discords of our nation into a beautiful symphony of brotherhood. With this faith, we will be able to work together, to pray together, to struggle together, to go to jail together, to stand up for freedom together, knowing that we will be free one day.</p>
-
-<p>And this will be the day – this will be the day when all of God’s children will be able to sing with new meaning:</p>
-
-<blockquote>
-  <p>My country ‘tis of thee, sweet land of liberty, of thee I sing.</p>
-
-  <p>Land where my fathers died, land of the Pilgrim’s pride,</p>
-
-  <p>From every mountainside, let freedom ring!</p>
-</blockquote>
-
-<p>And if America is to be a great nation, this must become true.</p>
-
-<p>And so let freedom ring from the prodigious hilltops of New Hampshire.</p>
-
-<blockquote>
-  <p>Let freedom ring from the mighty mountains of New York.</p>
-
-  <p>Let freedom ring from the heightening Alleghenies of Pennsylvania.</p>
-
-  <p>Let freedom ring from the snow-capped Rockies of Colorado.</p>
-
-  <p>Let freedom ring from the curvaceous slopes of California.</p>
-</blockquote>
-
-<p>But not only that:</p>
-
-<blockquote>
-  <p>Let freedom ring from Stone Mountain of Georgia.</p>
-
-  <p>Let freedom ring from Lookout Mountain of Tennessee.</p>
-
-  <p>Let freedom ring from every hill and molehill of Mississippi.</p>
-
-  <p>From every mountainside, let freedom ring.</p>
-</blockquote>
-
-<p>And when this happens, and when we allow freedom ring, when we let it ring from every village and every hamlet, from every state and every city, we will be able to speed up that day when all of God’s children, black men and white men, Jews and Gentiles, Protestants and Catholics, will be able to join hands and sing in the words of the old Negro spiritual:</p>
-
-<p><em>Free at last! Free at last!</em></p>
-
-<p><em>Thank God Almighty, we are free at last!</em></p>]]></content><author><name>Martin Luther King</name></author><category term="speeches" /><summary type="html"><![CDATA[I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.]]></summary></entry></feed>
+<p>Isn't it beautiful?</p>]]></content><author><name>John O&apos;Nolan</name></author><summary type="html"><![CDATA[Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.]]></summary></entry></feed>

@@ -8,15 +8,28 @@
     
       
       <item>
-        <title>Welcome to Ghost</title>
+        <title>Welcome to Vindex Cycling</title>
         
-          <description>&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+          <description>&lt;h1 id=&quot;hey-welcome-to-vindex-cycling-️&quot;&gt;Hey! Welcome to &lt;strong&gt;Vindex Cycling&lt;/strong&gt; 🚴‍♂️&lt;/h1&gt;
 </description>
         
-        <pubDate>Thu, 27 Jul 2017 11:00:00 +0100</pubDate>
+        <pubDate>Mon, 27 Oct 2025 10:00:00 +0000</pubDate>
         <link>
         /welcome</link>
         <guid isPermaLink="true">/welcome</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Welcome to Ghost</title>
+        
+          <description>Hey! Welcome to Ghost, it&apos;s great to have you :)</description>
+        
+        <pubDate>Thu, 27 Jul 2017 11:00:00 +0100</pubDate>
+        <link>
+        /welcome.md</link>
+        <guid isPermaLink="true">/welcome.md</guid>
       </item>
       
     

@@ -9,9 +9,14 @@ subclass: 'post page'
 ---
 
 <br/>
-<a href="mailto:jruariveiro+vindex@gmail.com?subject=Vindex">
-    Contact Vindex
-</a>
+<p>Join the Pack!</p>-->
+<form action="https://smartforms.dev/submit/6901465ac184545ccc20d042" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="email">
+  <input type="text" name="tel">
+  <button type="submit">Send</button>
+</form>
+
 
 
 <!--<script src="https://www.google.com/recaptcha/api.js"></script>-->

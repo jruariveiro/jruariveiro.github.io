@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Contact Me
-description: How can I help you?
-background: '/img/bg-contact.jpg'
-form: false
+current: Contact Vindex
+title: Contact
+navigation: true
+background: 'assets/img/bg-contact.jpg'
+logo: 'assets/images/ghost.png'
+class: page-template
+subclass: 'post page'
 ---
 
 <br/>
-<a href="mailto:jruariveiro+vindex@gmail.com?subject=Vindex Contact">
-    Vindex Contact
+<a href="mailto:jruariveiro+vindex@gmail.com?subject=Vindex">
+    Contact Vindex
 </a>
 
 

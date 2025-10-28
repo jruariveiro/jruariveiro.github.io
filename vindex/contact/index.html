@@ -11,7 +11,7 @@
 
 
 
-    <title>Contact Me</title>
+    <title>Contact</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -34,7 +34,7 @@
     <![endif]-->
     
     <!-- This tag outputs SEO meta+structured data and other important settings -->
-    <meta name="description" content="How can I help you?" />
+    <meta name="description" content="Vindex Cycling Club" />
     <link rel="shortcut icon" href="/vindex/assets/images/favicon.png" type="image/png" />
     <link rel="canonical" href="/vindex/contact/" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
@@ -42,14 +42,14 @@
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="Vindex Cycling Club" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Contact Me" />
-    <meta property="og:description" content="How can I help you?" />
+    <meta property="og:title" content="Contact" />
+    <meta property="og:description" content="Vindex Cycling Club" />
     <meta property="og:url" content="/vindex/contact/" />
     <meta property="og:image" content="/vindex/assets/images/blog-cover.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/vindexcycling" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Contact Me" />
-    <meta name="twitter:description" content="How can I help you?" />
+    <meta name="twitter:title" content="Contact" />
+    <meta name="twitter:description" content="Vindex Cycling Club" />
     <meta name="twitter:url" content="/vindex/" />
     <meta name="twitter:image" content="/vindex/assets/images/blog-cover.jpg" />
     <meta name="twitter:label1" content="Written by" />
@@ -79,7 +79,7 @@
         "@type": "WebPage",
         "@id": "/vindex/contact/"
     },
-    "description": "How can I help you?"
+    "description": "Vindex Cycling Club"
 }
     </script>
 
@@ -92,11 +92,11 @@
     </script> -->
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="Contact Me" href="/vindex/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Contact" href="/vindex/feed.xml" />
 
 
 </head>
-<body class="home-template">
+<body class="page-template">
 
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
@@ -114,6 +114,14 @@ into the {body} of the default.hbs template -->
                 <a class="site-nav-logo" href="/vindex/"><img src="/vindex/assets/images/blog-icon.png" alt="Vindex Cycling Club" /></a>
             
         
+        
+            <ul class="nav" role="menu">
+    <li class="nav-home" role="menuitem"><a href="/vindex/">Home</a></li>
+    <li class="nav-getting-started" role="menuitem"><a href="/vindex/news/">News</a></li>
+    <li class="nav-about" role="menuitem"><a href="/vindex/about/">About</a></li>
+    <li class="nav-about" role="menuitem"><a href="/vindex/contact/">Contact</a></li>
+</ul>
+
         
     </div>
     <div class="site-nav-right">
@@ -142,18 +150,18 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
-        <article class="post-full   no-image">
+        <article class="post-full  post page no-image">
 
             <header class="post-full-header">
-                <h1 class="post-full-title">Contact Me</h1>
+                <h1 class="post-full-title">Contact</h1>
             </header>
 
             
 
             <section class="post-full-content">
                 <p><br />
-<a href="mailto:jruariveiro+vindex@gmail.com?subject=Vindex Contact">
-    Vindex Contact
+<a href="mailto:jruariveiro+vindex@gmail.com?subject=Vindex">
+    Contact Vindex
 </a></p>
 
 <!--<script src="https://www.google.com/recaptcha/api.js"></script>-->
@@ -303,6 +311,14 @@ $(function() {
 
 
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
+    
+        <script>
+$(function() {
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+});
+</script>
+
     
 
     <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->

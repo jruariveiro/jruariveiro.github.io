@@ -3,7 +3,7 @@ layout: page
 current: Contact Vindex
 title: Contact
 navigation: true
-background: 'assets/img/bg-contact.jpg'
+background: 'assets/images/bg-contact.jpg'
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'

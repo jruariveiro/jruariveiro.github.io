@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <link href="/vindex/tag/welcome/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/vindex/" rel="alternate" type="text/html" />
-  <updated>2025-10-28T22:46:29+00:00</updated>
+  <updated>2025-11-09T18:52:58+00:00</updated>
   <id>/vindex/tag/welcome/feed.xml</id>
 
   
@@ -46,15 +46,13 @@
     <entry>
       <title type="html">Welcome to Vindex Cycling</title>
       <link href="/vindex/welcome" rel="alternate" type="text/html" title="Welcome to Vindex Cycling" />
-      <published>2025-10-27T10:00:00+00:00</published>
-      <updated>2025-10-27T10:00:00+00:00</updated>
+      <published>2025-11-09T10:00:00+00:00</published>
+      <updated>2025-11-09T10:00:00+00:00</updated>
       <id>/vindex/welcome</id>
       <content type="html" xml:base="/vindex/welcome">&lt;h1 id=&quot;hey-welcome-to-vindex-cycling-️&quot;&gt;Hey! Welcome to &lt;strong&gt;Vindex Cycling&lt;/strong&gt; 🚴‍♂️&lt;/h1&gt;
 
-&lt;p&gt;We’re thrilled to have you on board!&lt;br /&gt;
-Whether you’re here to explore routes, get gear insights, or connect with fellow riders, &lt;strong&gt;Vindex Cycling&lt;/strong&gt; is your new home on two wheels.&lt;/p&gt;
-
-&lt;p&gt;We know that first rides matter — so we’ve set up some &lt;strong&gt;Getting Started&lt;/strong&gt; posts to help you roll smoothly into the Vindex community.&lt;/p&gt;
+&lt;p&gt;We’re thrilled to have you on board!
+Whether you’re here to explore &lt;a href=&quot;/routes&quot;&gt;&lt;strong&gt;routes&lt;/strong&gt;&lt;/a&gt;, get &lt;a href=&quot;/journal&quot;&gt;&lt;strong&gt;training insights&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&quot;/community&quot;&gt;&lt;strong&gt;connect&lt;/strong&gt;&lt;/a&gt; with fellow riders, &lt;strong&gt;Vindex Cycling&lt;/strong&gt; is your new home on two wheels.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -62,20 +60,20 @@ Whether you’re here to explore routes, get gear insights, or connect with fell
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Vindex Cycling is built by riders, for riders.&lt;/strong&gt;&lt;br /&gt;
+    &lt;p&gt;&lt;strong&gt;Vindex Cycling is built by riders, for riders.&lt;/strong&gt;
 Our mission is to bring together cyclists who care about performance, community, and the freedom of the open road.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;You can shape your own experience here.&lt;/strong&gt;&lt;br /&gt;
+    &lt;p&gt;&lt;strong&gt;You can shape your own experience here.&lt;/strong&gt;
 From sharing ride reports and photos to exploring our latest training tips or gear reviews — you’re in control of your journey.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;We love data as much as we love climbs.&lt;/strong&gt;&lt;br /&gt;
+    &lt;p&gt;&lt;strong&gt;We love data as much as we love climbs.&lt;/strong&gt;
 Expect insights, analysis, and resources to help you ride smarter — not just harder.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Customization and contribution are encouraged.&lt;/strong&gt;&lt;br /&gt;
-Want to suggest a new feature or route? Join our Discord or drop us a message — we’re always open to ideas from the peloton.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Customization and contribution are encouraged.&lt;/strong&gt;
+Want to suggest a new feature or route? Join our community or drop us a message — we’re always open to ideas from the peloton.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -84,22 +82,23 @@ Want to suggest a new feature or route? Join our Discord or drop us a message �
 &lt;h3 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Learn how to get the most from your &lt;strong&gt;Vindex profile&lt;/strong&gt; — upload your rides, share your setup, and track your progress.&lt;/li&gt;
-  &lt;li&gt;Discover &lt;strong&gt;featured routes&lt;/strong&gt; curated by the community, from iconic climbs to hidden gems.&lt;/li&gt;
-  &lt;li&gt;Check out our &lt;strong&gt;Cycling Journal&lt;/strong&gt;, where we share stories, product insights, and updates from the Vindex team.&lt;/li&gt;
+  &lt;li&gt;Check out our &lt;a href=&quot;/journal&quot;&gt;&lt;strong&gt;Cycling Journal&lt;/strong&gt;&lt;/a&gt;, where we share stories, training insights, and updates from the Vindex team — including deep dives into topics like durability, FTP, VO₂ max, climbing efficiency, strength training, mental fitness, nutrition, recovery and much more!&lt;/li&gt;
+  &lt;li&gt;Join the &lt;a href=&quot;/community&quot;&gt;&lt;strong&gt;Community Hub&lt;/strong&gt;&lt;/a&gt; to meet other riders.&lt;/li&gt;
+  &lt;li&gt;Discover &lt;a href=&quot;/routes&quot;&gt;&lt;strong&gt;Featured Routes&lt;/strong&gt;&lt;/a&gt; curated by the community, from iconic climbs to hidden gems.&lt;/li&gt;
+  &lt;li&gt;Explore the &lt;a href=&quot;/calendar&quot;&gt;&lt;strong&gt;Vindex Calendar&lt;/strong&gt;&lt;/a&gt; to see where our next training camp, race event, or weekend spin is happening — and join the ride if you’re nearby!&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Vindex Cycling was founded by a small group of passionate riders who believe cycling is more than a sport — it’s a mindset.&lt;br /&gt;
+&lt;p&gt;Vindex Cycling was founded by a small group of passionate riders who believe cycling is more than a sport — it’s a mindset.
 Every post, route, and discussion here aims to celebrate that spirit.&lt;/p&gt;
 
-&lt;p&gt;Ready to roll?&lt;br /&gt;
+&lt;p&gt;Ready to roll?
 Start by exploring our &lt;a href=&quot;/journal&quot;&gt;Cycling Journal&lt;/a&gt; or join the &lt;a href=&quot;/community&quot;&gt;Community Hub&lt;/a&gt; to meet other riders.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Ride hard, stay kind, and welcome to the peloton.&lt;/strong&gt;&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Ride hard, stay kind, and welcome to the peloton.&lt;/strong&gt;
 – The Vindex Team ❤️&lt;/p&gt;</content>
 
       
